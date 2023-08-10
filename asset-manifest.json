@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/queue-stack/static/css/main.adbaf976.css",
+    "main.js": "/queue-stack/static/js/main.0b7abd19.js",
+    "index.html": "/queue-stack/index.html",
+    "main.adbaf976.css.map": "/queue-stack/static/css/main.adbaf976.css.map",
+    "main.0b7abd19.js.map": "/queue-stack/static/js/main.0b7abd19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adbaf976.css",
+    "static/js/main.0b7abd19.js"
+  ]
+}
